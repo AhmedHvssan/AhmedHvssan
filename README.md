@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhvssan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhvssan" /> </p>
 
-- 🌱 I’m currently learning **CS50,web dev,german**
+- 🌱 I’m currently learning **CS50,web dev,German**
 
 - 📫 How to reach me **ahmedhassan2022003@gmail.com**
 
